@@ -1,0 +1,9 @@
+Program Ex01;
+var 
+  nome : string;
+begin
+  writeln('Insira o seu nome');
+  readln(nome);
+  writeln('seu nome é ', nome);
+end.
+ 
